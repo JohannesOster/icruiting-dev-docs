@@ -26,10 +26,8 @@
 
 - Forms
 
-  - [Forms](forms.md)
-  - [Form Fields](formFields.md)
+  - [Forms](/forms/index.md)
   - [Form Submissions](formSubmission.md)
-  - [Form Submission Fields](formSubmissionFields.md)
 
 - Applicants
   - [Applicants](applicants.md)
