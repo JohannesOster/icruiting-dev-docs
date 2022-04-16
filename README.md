@@ -1,2 +1,1 @@
-# icruiting-api-ref
-
+# icruiting-dev-docs
